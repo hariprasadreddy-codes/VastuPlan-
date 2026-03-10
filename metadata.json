@@ -1,0 +1,5 @@
+{
+  "name": "VastuPlan AI",
+  "description": "A comprehensive construction planning and design platform with AI-powered suggestions, 3D plans, budgeting, and a creative sketchboard.",
+  "requestFramePermissions": ["microphone"]
+}
